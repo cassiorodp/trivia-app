@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/trivia-app/static/css/main.3903017c.chunk.css",
+    "main.js": "/trivia-app/static/js/main.1ffa807e.chunk.js",
+    "main.js.map": "/trivia-app/static/js/main.1ffa807e.chunk.js.map",
+    "runtime-main.js": "/trivia-app/static/js/runtime-main.3f1b01a2.js",
+    "runtime-main.js.map": "/trivia-app/static/js/runtime-main.3f1b01a2.js.map",
+    "static/js/2.df2d7d02.chunk.js": "/trivia-app/static/js/2.df2d7d02.chunk.js",
+    "static/js/2.df2d7d02.chunk.js.map": "/trivia-app/static/js/2.df2d7d02.chunk.js.map",
+    "index.html": "/trivia-app/index.html",
+    "static/css/main.3903017c.chunk.css.map": "/trivia-app/static/css/main.3903017c.chunk.css.map",
+    "static/js/2.df2d7d02.chunk.js.LICENSE.txt": "/trivia-app/static/js/2.df2d7d02.chunk.js.LICENSE.txt",
+    "static/media/certa-resposta.ac7432fe.mp3": "/trivia-app/static/media/certa-resposta.ac7432fe.mp3",
+    "static/media/comemoracao.20b8f380.gif": "/trivia-app/static/media/comemoracao.20b8f380.gif",
+    "static/media/losing-sound.41ea0c54.mp3": "/trivia-app/static/media/losing-sound.41ea0c54.mp3",
+    "static/media/proxima-pergunta.297be688.mp3": "/trivia-app/static/media/proxima-pergunta.297be688.mp3",
+    "static/media/que-pena.afd94236.mp3": "/trivia-app/static/media/que-pena.afd94236.mp3",
+    "static/media/show-do-milhao.da1746dd.png": "/trivia-app/static/media/show-do-milhao.da1746dd.png",
+    "static/media/silviosantos.42e6a049.gif": "/trivia-app/static/media/silviosantos.42e6a049.gif",
+    "static/media/theme-song.2067cea8.mp3": "/trivia-app/static/media/theme-song.2067cea8.mp3",
+    "static/media/tombo.08748272.gif": "/trivia-app/static/media/tombo.08748272.gif",
+    "static/media/winning-sound.390d14cf.mp3": "/trivia-app/static/media/winning-sound.390d14cf.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f1b01a2.js",
+    "static/js/2.df2d7d02.chunk.js",
+    "static/css/main.3903017c.chunk.css",
+    "static/js/main.1ffa807e.chunk.js"
+  ]
+}
