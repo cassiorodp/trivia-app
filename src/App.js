@@ -1,25 +1,21 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Route } from 'react-router-dom';
+// import logo from './trivia.png';
 import './App.css';
+import Config from './pages/Config';
+import Login from './pages/Login';
+import TelaDeJogo from './pages/TelaDeJogo';
+import TelaDeFeedback from './pages/TelaDeFeedback';
+import TelaDeRanking from './pages/TelaDeRanking';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Route exact path="/" component={ Login } />
+      <Route exact path="/config" component={ Config } />
+      <Route exact path="/tela-de-jogo" component={ TelaDeJogo } />
+      <Route exact path="/tela-de-feedback" component={ TelaDeFeedback } />
+      <Route exact path="/tela-de-ranking" component={ TelaDeRanking } />
     </div>
   );
 }
-
-export default App;
