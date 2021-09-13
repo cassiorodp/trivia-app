@@ -8,3 +8,9 @@ Educacional app powered by react, using some stacks like:
  - React route
  - Redux
  - Bootstrap CSS
+ 
+ This project was done by the developers:
+ - https://github.com/cassiorodp
+ - https://github.com/cristianovitorino
+ - https://github.com/icaroMelo1
+ - https://github.com/OnJACKSM
