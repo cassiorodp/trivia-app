@@ -14,3 +14,5 @@ Educacional app powered by react, using some stacks like:
  - https://github.com/cristianovitorino
  - https://github.com/icaroMelo1
  - https://github.com/OnJACKSM
+
+[See our app here !](https://cassiorodp.github.io/trivia-app/)
